@@ -1,2 +1,11 @@
-# project12-spacescumers
-project12-spacescumers created by GitHub Classroom
+# Online Calculator Documentation
+
+В данном репозитории находится документация по лабораторным работам проекта **Online Calculator**.  
+
+## Структура
+
+Вся документация расположена в папке `docs`.
+
+---
+
+**Команда разработчиков**: Space Scumers
